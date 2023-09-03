@@ -1,8 +1,9 @@
 {
   "name": "express-next",
+  "description": "Next.js application with Express + tRPC as backend",
   "version": "1.0.0",
-  "private": true,
   "author": "Podter",
+  "license": "MIT",
   "scripts": {
     "build": "turbo run build",
     "clean": "turbo run clean",
